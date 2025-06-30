@@ -41,5 +41,5 @@ This project explores **dimensionality reduction** techniques — Principal Comp
 
 ## 📁 Project Files
 ### 🐧 PCA + t-SNE on Palmer Penguins Dataset
-- **Repo**: [pca-tsne-penguins](https://github.com/yourusername/pca-tsne-penguins)
+- **Repo**: [pca-tsne-penguins](https://github.com/lozanogangelicads/pca-tsne-penguins)
 - Dimensionality reduction and visualization using PCA and t-SNE on the Palmer Penguins dataset.
