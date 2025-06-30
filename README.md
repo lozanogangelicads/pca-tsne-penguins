@@ -40,10 +40,6 @@ This project explores **dimensionality reduction** techniques — Principal Comp
 ---
 
 ## 📁 Project Files
-pca-tsne-penguins/
-├── Assignment_1_Principal_Component_Analysis_(PCA).ipynb # Main notebook
-├── cleaned_penguins.pkl # Cleaned and preprocessed dataset
-├── pca_penguins.pkl # PCA-transformed data
-├── tsne_penguins.pkl # t-SNE applied to original data
-├── pca_tsne_penguins.pkl # t-SNE applied to PCA-reduced data
-├── README.md # Project overview (this file)
+### 🐧 PCA + t-SNE on Palmer Penguins Dataset
+- **Repo**: [pca-tsne-penguins](https://github.com/yourusername/pca-tsne-penguins)
+- Dimensionality reduction and visualization using PCA and t-SNE on the Palmer Penguins dataset.
